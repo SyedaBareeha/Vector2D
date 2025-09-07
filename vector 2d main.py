@@ -19,5 +19,6 @@ print ("direction of v1 =" ,v1.direction())  #degrees
 
 print ("multiplication of v1 : v1 * 5 =" ,v1*5)    #vector ko 5 time bara karna          
 
-print ("dot product v1 . v2 =" ,v1.__dot__(v2))    #dot product v1 and v2
+print ("dot product v1 . v2 =" ,v1.__dot__(v2))    #dot product of v1 and v2
+
 
